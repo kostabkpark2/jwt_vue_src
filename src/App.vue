@@ -1,6 +1,7 @@
 <template>
   <nav>
     <router-link to="/">Home</router-link> |  
+	<router-link to="/study5">Study5(쿠키)</router-link>  
     <router-link to="/study6">Study6(헤더)</router-link>          
   </nav>
   <br>
